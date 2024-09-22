@@ -1,0 +1,11 @@
+C:\Users\ffima\Source\Repos\Gimpies_winForm\GimpiesWinForm\bin\Debug\GimpiesWinForm.exe
+C:\Users\ffima\Source\Repos\Gimpies_winForm\GimpiesWinForm\bin\Debug\GimpiesWinForm.exe.config
+C:\Users\ffima\Source\Repos\Gimpies_winForm\GimpiesWinForm\obj\Debug\GimpiesWinForm.csproj.AssemblyReference.cache
+C:\Users\ffima\Source\Repos\Gimpies_winForm\GimpiesWinForm\obj\Debug\GimpiesWinForm.Form1.resources
+C:\Users\ffima\Source\Repos\Gimpies_winForm\GimpiesWinForm\obj\Debug\GimpiesWinForm.Menu.resources
+C:\Users\ffima\Source\Repos\Gimpies_winForm\GimpiesWinForm\obj\Debug\GimpiesWinForm.Properties.Resources.resources
+C:\Users\ffima\Source\Repos\Gimpies_winForm\GimpiesWinForm\obj\Debug\GimpiesWinForm.csproj.GenerateResource.cache
+C:\Users\ffima\Source\Repos\Gimpies_winForm\GimpiesWinForm\obj\Debug\GimpiesWinForm.csproj.CoreCompileInputs.cache
+C:\Users\ffima\Source\Repos\Gimpies_winForm\GimpiesWinForm\obj\Debug\GimpiesWinForm.exe
+C:\Users\ffima\Source\Repos\Gimpies_winForm\GimpiesWinForm\obj\Debug\GimpiesWinForm.pdb
+C:\Users\ffima\Source\Repos\Gimpies_winForm\GimpiesWinForm\bin\Debug\GimpiesWinForm.pdb
